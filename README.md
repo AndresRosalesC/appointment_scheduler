@@ -1,4 +1,4 @@
-# appointment_scheduler
+# Salon Appointment Scheduler
 Shell script that manages a Salon schedule with a database
 
 There are 3 files:
